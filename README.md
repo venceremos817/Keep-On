@@ -5,7 +5,7 @@
 開発環境  
  Windows10, Unity2020.2.6f1, VisualStudio2017
 
-自分が書いたコードを抜粋したものです。
+担当したスクリプトをアップしております。
 
 https://user-images.githubusercontent.com/80116857/165559866-f743f4c6-0f77-42f5-8024-52cd4361e821.mp4
 
